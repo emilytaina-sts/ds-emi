@@ -1,49 +1,85 @@
-body{
-    color: rgb(253, 252, 252);
-    background-color: rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif
-}
-ul{
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none ;
-    align-items: center;
-    padding: 16px;
-}
-
-a{
-    color: white;
-    text-decoration: none;
-}
-img{
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
-    border: 5px solid rgb(241, 94, 155)
-}
-.center{
-    text-align: center;
-    justify-content: space-between;
-}
-h1{
-    color: rgb(241, 94, 155);
-    text-align: center;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-}
-.container{
-    padding: 0px 30px ;
-}
-nav a:hover {
-    color: rgb(241, 94, 155);
-}
-h2{
-    font-family:'Times New Roman', Times, serif;
-    color:rgb(248, 179, 208);
-}
-h3{
-    color:rgb(241, 94, 155);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-}  
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
   
- 
+  body {
+    font-family: 'New Amsterdam', sans-serif;
+    background-color: #fff0f5;
+    color: #4a4a4a;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    background-color: #ffe4e1;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #d6336c;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  nav a:hover {
+    color: #ff69b4;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  h1 {
+    font-family: 'Road Rage', cursive;
+    font-size: 48px;
+    color: #ff1493;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #c71585;
+  }
+  main section {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  h3 {
+    font-size: 24px;
+    color: #d6336c;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
