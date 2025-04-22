@@ -59,12 +59,13 @@
   h2 {
     font-size: 24px;
     color: #c71585;
+    font-family: "Chango", sans-serif;
   }
   main section {
     background-color: #fff;
     border-radius: 10px;
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
   }
   
@@ -72,6 +73,7 @@
     font-size: 24px;
     color: #d6336c;
     margin-bottom: 10px;
+    text-align: center;
   }
   
   ul {
@@ -82,7 +84,4 @@
   li {
     margin-bottom: 5px;
   }
-  
 
-  
- 
