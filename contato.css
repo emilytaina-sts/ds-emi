@@ -1,0 +1,54 @@
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff7f1;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  button {
+    background-color: #d47fa6;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Chango', cursive;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #b25e8c;
+  }
+  main section p {
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+  }
+  .caixinha {
+    max-width: 500px;
+    margin: 30px auto;
+    background-color: #fff7f1;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  .caixinha h3 {
+    font-family: 'Chango', cursive;
+    font-size: 24px;
+    color: #e9579b;
+    margin-bottom: 15px;
+  }
+  
+  .caixinha p {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 8px 0;
+  }
+  
+  
