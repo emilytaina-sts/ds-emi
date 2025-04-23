@@ -1,26 +1,25 @@
 
-  .caixinha {
-    max-width: 500px;
-    margin: 30px auto;
-    background-color: #fff7f1;
-    padding: 20px;
-    border-radius: 20px;
-    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
-    text-align: center;
-  }
-  
-  .caixinha h3 {
-    font-family: 'Chango', cursive;
-    font-size: 24px;
-    color: #e9579b;
-    margin-bottom: 15px;
-  }
-  
-  .caixinha p {
-    font-size: 16px;
-    font-family: Arial, sans-serif;
-    color: #333;
-    margin: 8px 0;
-  }
-  
-  
+.caixinha {
+  max-width: 500px;
+  margin: 30px auto;
+  background-color: #fff7f1;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.caixinha h3 {
+  font-family: 'Chango', cursive;
+  font-size: 24px;
+  color: #e9579b;
+  margin-bottom: 15px;
+}
+
+.caixinha p {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 8px 0;
+}
+
